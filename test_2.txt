@@ -1,1 +1,1 @@
-ok MINMAX
+ok MINMAX lan 2
